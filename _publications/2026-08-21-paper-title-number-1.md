@@ -3,9 +3,9 @@ title: "When Less is More: Understanding When Token Filtering Helps and Fails in
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Comming soon'
 date: 2026-08-21
-venue: 'Conference'
+venue: 'EMNLP Main Conference'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''

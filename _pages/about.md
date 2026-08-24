@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,14 +9,16 @@ redirect_from:
 
 Hello! My name is Xiaoyang Han (韩骁扬) and I am a Ph.D. student at the College of Computer Science and Technology, Zhejiang University.
 
-My research area include: Natural Language Processing (NLP), Large Language Model.
+Research Interests
 
-- AI-generated Text Detection
+My research area include: **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, with a particular focus on the reliability and trustworthiness of language models. My current research mainly explores:
+
+- AI-Generated Text Detection
 - LLM Hallucination Detection 
 
-My Interest
+Beyond Research
 ======
-I also like developing engineer project and music for fun.
+Outside research, I enjoy building software projects and exploring new technologies. I am also passionate about music, especially choral singing, and enjoy participating in chorus activities in my spare time.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
